@@ -1,6 +1,8 @@
 # Spring-Tool-Suite-Demo
 STS is an Eclipse-based development environment that is customized for the development of Spring applications. It provides a ready-to-use environment to implement, debug, run and deploy your applications. It also includes integration for Pivotal tc Server, Pivotal Cloud Foundry, Git, Maven and AspectJ.
 
+# My whimsical roadmap link for SpringBoot
+`https://whimsical.com/java-springboot-Nz4aoopX1BG1PDhrWY6jzQ`
 
 # STS JRE setup
 
