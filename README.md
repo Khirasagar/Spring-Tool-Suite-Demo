@@ -8,7 +8,7 @@ STS is an Eclipse-based development environment that is customized for the devel
 ` Windows > Preferences > Search "JRE" > Click on "Installed JREs" > Add > Standard VMs > Directory... > then select path "C:\Program Files\Java\jdk1.8.0_202" > Check cheque box > Apply > Apply and Close `
 
 
-# Problem 1 if the jar files are noot downloaded properly or project corrupted
+# Problem 1 if the jar files are not downloaded properly or project corrupted
 
 `Close the existing project > got to "C:\Users\khira" > delete .m2 folder> ffreshly create project `
 
